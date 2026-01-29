@@ -1,4 +1,4 @@
-# 🚀 Vimal Vidyadhaaran — GitHub Profile 
+# 🚀 Vimal Vidyadhaaran — Software & Game Developer 
 
 ---
 
@@ -6,7 +6,7 @@
 
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?size=28\&pause=900\&color=38BDF8\&center=true\&vCenter=true\&width=800\&lines=Full+Stack+Developer;Java+%7C+MERN+%7C+Spring+Boot;Game+Developer+\(JavaFX\);Always+Learning+New+Technologies!)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?size=28&pause=900&color=38BDF8&center=true&vCenter=true&width=800&lines=Python+%7C+Java+Developer;Game+Developer+(C%23+%26+PyGame);Full+Stack+Specialist+(MERN+%2B+Spring+Boot);Data+Structures+%26+Algorithms+Enthusiast)
 
 </div>
 
@@ -14,51 +14,39 @@
 
 ## ✨ About Me
 
-* 🔭 I’m currently working on **Full Stack Development**, **Java**, **Spring Boot**, **React**, **MongoDB**
-* 🌱 Learning **DSA**, **Cloud**, **Game Development (JavaFX)**
-* 🧑‍💻 Ask me about **Java, MERN, React, MongoDB, Git, TailwindCSS**
+* 🔭 I’m currently focused on **Python**, **Java**, and **Game Development**.
+* 🌱 Deep diving into **C# (Unity/Godot)** and **Python Game Libs**.
+* 🧑‍💻 Master of **Java, Spring Boot, Hibernate, and JSP**.
+* 🏗️ Building full-stack apps with **React, Node, and Express**.
+* 🧠 Solving **DSA** problems daily.
 * 📫 Reach me: **[vidyadhaaranv@gmail.com](mailto:vidyadhaaranv@gmail.com)**
 
 ---
 
 ## 🛠️ Programming Languages
 
-
-![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge\&logo=openjdk)
-![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge\&logo=javascript)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript)
-![SQL](https://img.shields.io/badge/SQL-0000FF?style=for-the-badge\&logo=mysql)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ---
 
 ## 🧩 Frameworks & Libraries
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge\&logo=tailwindcss)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=node.js)
-![Express.js](https://img.shields.io/badge/Express.js-grey?style=for-the-badge\&logo=express)
-![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge\&logo=next.js)
-![JavaFX](https://img.shields.io/badge/JavaFX-blue?style=for-the-badge)
+### Backend & Web
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
+![Express.js](https://img.shields.io/badge/Express.js-grey?style=for-the-badge&logo=express)
 
----
-
-## 🧰 Tools & Technologies
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge\&logo=mongodb)
-![Postgres](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge\&logo=postgresql)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge\&logo=firebase)
-![VS Code](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge\&logo=visualstudiocode)
-
-
----
-
-## 🎨 Additional Skills
-
-
+### Specialized
+![JSP](https://img.shields.io/badge/Java_Server_Pages-blue?style=for-the-badge)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss)
 
 ---
 
@@ -66,11 +54,11 @@
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=YOUR_USERNAME\&theme=tokyonight\&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com/?user=vimal-2101&theme=tokyonight&hide_border=true)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true\&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vimal-2101&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME\&layout=compact\&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vimal-2101&layout=compact&theme=tokyonight)
 
 </div>
 
@@ -78,8 +66,7 @@
 
 ## 🔗 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge\&logo=linkedin)](#)
-[![Portfolio](https://img.shields.io/badge/Portfolio-black?style=for-the-badge\&logo=web)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=target&logoColor=white)](#)
 
 ---
-
