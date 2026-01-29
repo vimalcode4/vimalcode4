@@ -1,4 +1,4 @@
-# 🚀 Vimal Vidyadhaaran — GitHub Profile
+# 🚀 Vimal Vidyadhaaran — Software & Game Developer
 
 ---
 
@@ -19,7 +19,7 @@
 - 🐍 Also working with **Python & Flask**
 - 🎮 Game Development: **JavaFX & C# (Unity Learning)**
 - 📚 Learning **Data Structures & Algorithms (DSA)**
-- 🧠 Exploring **Cloud & Backend Architecture**
+- 🧠 Exploring **Building and learning on my own**
 - 📫 Reach me: **vidyadhaaranv@gmail.com**
 
 ---
