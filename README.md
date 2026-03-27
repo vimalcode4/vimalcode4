@@ -1,4 +1,4 @@
-# Vimal Vidyadhaaran — Software & Game Developer
+# Vimal Vidyadhaaran — Software Developer
 
 ---
 
