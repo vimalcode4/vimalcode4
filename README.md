@@ -1,25 +1,25 @@
-# 🚀 Vimal Vidyadhaaran — Software & Game Developer
+# Vimal Vidyadhaaran — Software & Game Developer
 
 ---
 
-# 👋 Hey, I'm **Vimal Vidyadhaaran**
+#  Hey, I'm **Vimal Vidyadhaaran**
 
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?size=28&pause=900&color=38BDF8&center=true&vCenter=true&width=850&lines=Java+%26+Python+Developer;Full+Stack+Web+Developer;Spring+Boot+%7C+Flask+%7C+MERN;Game+Developer+(JavaFX+%26+C%23);Always+Learning+New+Technologies!)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=38BDF8&center=true&vCenter=true&width=700&lines=Java+%26+Python+Developer;Full+Stack+Web+Developer;Spring+Boot+%7C+Flask+%7C+MERN;Game+Developer+(JavaFX+%26+C%23);Always+Learning+New+Technologies!)
 
 </div>
 
 ---
 
-## ✨ About Me
+##  About Me
 
 - 🔭 Currently working on **Full Stack Web Development**
 - 💻 Primary Stack: **Java, Spring Boot, React, Node.js, Express**
 - 🐍 Also working with **Python & Flask**
 - 🎮 Game Development: **JavaFX & C# (Unity Learning)**
 - 📚 Learning **Data Structures & Algorithms (DSA)**
-- 🧠 Exploring **Building and learning on my own**
+- 🧠 Building real-world projects and improving daily
 - 📫 Reach me: **vidyadhaaranv@gmail.com**
 
 ---
@@ -70,7 +70,6 @@
 - Advanced Spring Boot & REST APIs
 - Flask Backend Development
 - Python Game Development
-- C# Game Development (Unity)
 - Cloud Computing Basics
 
 ---
@@ -92,7 +91,11 @@
 ## 🔗 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/vimal-vidyadhaaran-229622255/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=web)](https://github.com/VIMAL-2101)
+[![Medium](https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium)](https://medium.com/@vimalcode4)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram)](https://www.instagram.com/vimalcode4/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=web)](https://beacons.ai/vimalcode)
+
+📧 Email: **vidyadhaaranv@gmail.com**
 
 ---
 
