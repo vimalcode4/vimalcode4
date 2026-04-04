@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=38BDF8&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Backend+Focused+(Spring+Boot+%26+FastAPI);Building+Real-World+Projects;Always+Learning+%26+Improving)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=38BDF8&center=true&vCenter=true&width=700&lines=Python+developer:Full+Stack+Developer;Backend+Focused+(Spring+Boot+%26+FastAPI);Building+Real-World+Projects;Always+Learning+%26+Improving)
 
 </div>
 
