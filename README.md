@@ -64,14 +64,13 @@
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=VIMAL-2101&theme=tokyonight&hide_border=true)
+<img src="https://github-readme-streak-stats.herokuapp.com?user=VIMAL-2101&theme=tokyonight&hide_border=true" />
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VIMAL-2101&show_icons=true&theme=tokyonight)
+<img src="https://github-readme-stats.vercel.app/api?username=VIMAL-2101&show_icons=true&theme=tokyonight&hide_border=true" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VIMAL-2101&layout=compact&theme=tokyonight)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VIMAL-2101&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
-
 ---
 
 ## 🔗 Connect With Me
