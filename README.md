@@ -4,7 +4,7 @@ I'm Vimal, a software developer with a strong interest in artificial intelligenc
 
 My primary interests include backend development, data science, machine learning, and building scalable applications that solve real-world problems. I enjoy transforming ideas into practical software solutions through clean code, structured problem-solving, and continuous learning.
 
-I primarily work with Python, Java, SQL, and modern backend technologies while exploring machine learning, data science, and scalable software systems.
+I primarily work with Python and modern backend technologies while exploring machine learning, data science, and scalable software systems.
 
 Outside of technology, I enjoy creating technical content, exploring new innovations, gaming, and following advancements in artificial intelligence and software development.
 
