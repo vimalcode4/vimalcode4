@@ -1,34 +1,24 @@
 # Hi there! 👋
 
-I'm Vimal, a software developer and aspiring AI engineer from India.
+I'm Vimal, a software developer with a strong interest in artificial intelligence, data science, and software engineering.
 
-I recently completed my Bachelor's degree in Computer Science Engineering and will be pursuing an MSc in Data Science & Artificial Intelligence at Middlesex University Dubai in September 2026.
+I completed my Bachelor's degree in Computer Science Engineering and continue to expand my knowledge through hands-on projects, technical learning, and emerging technologies.
 
-I'm passionate about building practical software solutions, exploring artificial intelligence, and continuously improving my engineering skills. My interests span backend development, data science, machine learning, and scalable application design.
+My primary interests include backend development, data science, machine learning, and building scalable applications that solve real-world problems. I enjoy transforming ideas into practical software solutions through clean code, structured problem-solving, and continuous learning.
 
-Currently, I'm focused on strengthening my foundations in Python, Data Structures & Algorithms, SQL, Data Science, and AI while developing real-world projects that solve meaningful problems.
+Currently, I'm focused on Python development, Data Structures & Algorithms, SQL, machine learning fundamentals, and modern software engineering practices while working on projects that strengthen both my technical and analytical skills.
 
-Outside of coding, I enjoy learning emerging technologies, writing technical content, playing games, and exploring how software can create real-world impact.
-
-## Current Journey
-
-🚀 Preparing for MSc Data Science & Artificial Intelligence
-
-💻 Building software projects with Python
-
-📊 Learning Data Science, Machine Learning & AI
-
-🧠 Improving Data Structures & Algorithms skills
-
-☁️ Exploring modern software engineering practices
+Outside of technology, I enjoy creating technical content, exploring new innovations, gaming, and following advancements in artificial intelligence and software development.
 
 ## Featured Projects
 
 ### Civic Issue Reporting & Tracking Application
-A platform for reporting, tracking, and managing public issues efficiently.
+
+Designed and developed a platform that enables users to report, track, and manage civic issues efficiently.
 
 ### Academic Press Blockchain Audit Control & GRC
-A blockchain-based system focused on audit control, governance, risk, and compliance management.
+
+Developed a blockchain-based solution focused on governance, risk management, compliance, and audit control processes.
 
 ## Technologies
 
@@ -36,7 +26,7 @@ A blockchain-based system focused on audit control, governance, risk, and compli
 Python • Java • SQL • JavaScript • HTML • CSS
 
 **Backend**
-FastAPI • Flask • Spring Boot
+Spring Boot • FastAPI • Flask
 
 **Databases**
 MySQL • PostgreSQL • MongoDB
@@ -46,13 +36,14 @@ Git • GitHub • VS Code • IntelliJ IDEA
 
 ## Let's Connect
 
-LinkedIn: www.linkedin.com/in/vimal-vidyadhaaran-229622255
+LinkedIn: linkedin.com/in/vimal-vidyadhaaran-229622255
 
 Medium: medium.com/@vimalcode4
 
 GitHub: github.com/VIMAL-2101
 
-Email: vidyadhaaranv@gmail.com
+Email: [vidyadhaaranv@gmail.com](mailto:vidyadhaaranv@gmail.com)
 
 ---
-⭐ Building skills today to create impactful technology tomorrow.
+
+⭐ Passionate about building technology that creates meaningful impact.
