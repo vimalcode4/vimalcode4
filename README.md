@@ -38,9 +38,7 @@ LinkedIn: linkedin.com/in/vimal-vidyadhaaran-229622255
 
 Medium: medium.com/@vimalcode4
 
-GitHub: github.com/VIMAL-2101
-
-Email: [vidyadhaaranv@gmail.com](mailto:vidyadhaaranv@gmail.com)
+Email: [vidyadhaaran@gmail.com](mailto:vidyadhaaran@gmail.com)
 
 ---
 
