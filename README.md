@@ -2,8 +2,6 @@
 
 I'm Vimal, a software developer with a strong interest in artificial intelligence, data science, and software engineering.
 
-I completed my Bachelor's degree in Computer Science Engineering and continue to expand my knowledge through hands-on projects, technical learning, and emerging technologies.
-
 My primary interests include backend development, data science, machine learning, and building scalable applications that solve real-world problems. I enjoy transforming ideas into practical software solutions through clean code, structured problem-solving, and continuous learning.
 
 Currently, I'm focused on Python development, Data Structures & Algorithms, SQL, machine learning fundamentals, and modern software engineering practices while working on projects that strengthen both my technical and analytical skills.
