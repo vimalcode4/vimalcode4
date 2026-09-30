@@ -34,8 +34,6 @@ Git • GitHub • VS Code • IntelliJ IDEA
 
 ## Let's Connect
 
-LinkedIn: linkedin.com/in/vimal-vidyadhaaran-229622255
-
 Medium: medium.com/@vimalcode4
 
 Email: [vidyadhaaran@gmail.com](mailto:vidyadhaaran@gmail.com)
